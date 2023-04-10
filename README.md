@@ -6,4 +6,4 @@ Hello there! Welcome to a very empty landing page with some links to stuff I'm t
 - [ceruleancrayons.com](http://ceruleancrayons.com/) - my personal music
 
 ## Email me
-c@rlth.me
+[c@rlth.me](mailto:c@rlth.me)
