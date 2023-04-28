@@ -1,6 +1,6 @@
 # Carl Thomé
 
-Hello there! Welcome to an sparse landing page with some links to stuff I'm tinkering with.
+Hello there! Welcome to a sparse landing page with some links to stuff I'm tinkering with.
 
 ## My background
 
