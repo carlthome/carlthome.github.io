@@ -12,11 +12,11 @@ Touched a lot of deep learning models, especially around audio, most recently ti
 
 Generally mostly focused on representation learning by self-supervision, and applying differentiable programming in digital signal processing for next-level audio products and music production tools.
 
-## Some links
+## Some personal links
 
 - [carlthome.github.io/blog](https://carlthome.github.io/blog) - my personal blog
 - [ceruleancrayons.com](http://ceruleancrayons.com/) - my personal music
 
-## Email me
+## Contact me
 
-[c@rlth.me](mailto:c@rlth.me)
+Look for `carlthome` at [Gmail](mailto:carlthome@gmail.com), [Reddit](https://www.reddit.com/user/carlthome), [Twitter](https://twitter.com/carlthome), [LinkedIn](https://linkedin.com/in/carlthome), [Kaggle](https://www.kaggle.com/carlthome), [Spotify](https://open.spotify.com/user/carlthome), [Facebook](https://www.facebook.com/carlthome), [SoundCloud](https://soundcloud.com/carlthome), [Bandbamp](http://carlthome.bandcamp.com), [last.fm](https://www.last.fm/user/carlthome), [YouTube](https://youtube.com/@CarlThome), etc.
