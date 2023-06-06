@@ -1,4 +1,4 @@
-# Carl Thomé
+# About me
 
 Hello there! Welcome to a sparse landing page with some links to stuff I'm tinkering with.
 
