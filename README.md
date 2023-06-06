@@ -19,4 +19,4 @@ Generally mostly focused on representation learning by self-supervision, and app
 
 ## Contact me
 
-Look for `carlthome` at [Gmail](mailto:carlthome@gmail.com), [Reddit](https://www.reddit.com/user/carlthome), [Twitter](https://twitter.com/carlthome), [LinkedIn](https://linkedin.com/in/carlthome), [Kaggle](https://www.kaggle.com/carlthome), [Spotify](https://open.spotify.com/user/carlthome), [Facebook](https://www.facebook.com/carlthome), [SoundCloud](https://soundcloud.com/carlthome), [Bandbamp](http://carlthome.bandcamp.com), [last.fm](https://www.last.fm/user/carlthome), [YouTube](https://youtube.com/@CarlThome), etc.
+Look for `carlthome` at [Gmail](mailto:carlthome@gmail.com), [Reddit](https://www.reddit.com/user/carlthome), [Twitter](https://twitter.com/carlthome), [LinkedIn](https://linkedin.com/in/carlthome), [Kaggle](https://www.kaggle.com/carlthome), [Spotify](https://open.spotify.com/user/carlthome), [Facebook](https://www.facebook.com/carlthome), [SoundCloud](https://soundcloud.com/carlthome), [Bandcamp](http://carlthome.bandcamp.com), [last.fm](https://www.last.fm/user/carlthome), [YouTube](https://youtube.com/@CarlThome), etc.
