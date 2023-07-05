@@ -4,7 +4,7 @@ Hello there! Welcome to a sparse landing page with some links to stuff I'm tinke
 
 ## My background
 
-Started being interested in using ML for music understanding back in computer science school around 2011 from the ANN side with Boltzmann machines and Hinton.
+Started being interested in using machine learning (ML) for music understanding back in computer science school around 2011 from the artificial neural networks (ANN) side with Boltzmann machines and Hinton.
 
 Picked up Theano when Lasagne/Keras was coming up, and was a regular contributor to Keras and TensorFlow before the 1.0 release. Sad about 2.0 as a functional programmer, and now moving to PyTorch like everyone else.
 
@@ -19,4 +19,4 @@ Generally mostly focused on representation learning by self-supervision, and app
 
 ## Contact me
 
-Look for `carlthome` at [Gmail](mailto:carlthome@gmail.com), [Reddit](https://www.reddit.com/user/carlthome), [Twitter](https://twitter.com/carlthome), [LinkedIn](https://linkedin.com/in/carlthome), [Kaggle](https://www.kaggle.com/carlthome), [Spotify](https://open.spotify.com/user/carlthome), [Facebook](https://www.facebook.com/carlthome), [SoundCloud](https://soundcloud.com/carlthome), [Bandcamp](http://carlthome.bandcamp.com), [last.fm](https://www.last.fm/user/carlthome), [YouTube](https://youtube.com/@CarlThome), etc.
+Look for `carlthome` at [GitHub](https://github.com/carlthome), [Gmail](mailto:carlthome@gmail.com), [Reddit](https://www.reddit.com/user/carlthome), [Twitter](https://twitter.com/carlthome), [LinkedIn](https://linkedin.com/in/carlthome), [Kaggle](https://www.kaggle.com/carlthome), [Spotify](https://open.spotify.com/user/carlthome), [Facebook](https://www.facebook.com/carlthome), [SoundCloud](https://soundcloud.com/carlthome), [Bandcamp](http://carlthome.bandcamp.com), [last.fm](https://www.last.fm/user/carlthome), [YouTube](https://youtube.com/@CarlThome), etc.
