@@ -40,7 +40,7 @@ Some interesting workplaces I've been developing at:
 
 Some cool people I've been fortunate to support on their learning journey:
 
-- Sebastian Löf & Cody Hesse - [Self-supervised learning of musical representations using VICReg; a comprehensive study of the VICReg loss function for self-supervised representation learning in the music domain](https://odr.chalmers.se/items/9a898e6e-d88c-4c5b-94c5-3db835999711)
+- Sebastian Löf & Cody Hesse - [Self-supervised learning of musical representations using VICReg](https://odr.chalmers.se/items/9a898e6e-d88c-4c5b-94c5-3db835999711)
 - Oriol Colomé Font - [Uncovering underlying high-level musical content in the time domain
 ](https://zenodo.org/records/8380670)
 - Nicolas Jonason - [The control-synthesis approach for making expressive and controllable neural music synthesizers
