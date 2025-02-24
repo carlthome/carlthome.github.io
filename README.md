@@ -16,12 +16,13 @@ I'm currently thinking about audio-based finetuning methods, reproducible code f
 
 ## Some personal links
 
-- [carlthome.github.io/blog](https://carlthome.github.io/blog) - my personal blog
-- [ceruleancrayons.com](http://ceruleancrayons.com/) and on [Spotify](https://open.spotify.com/artist/1lDsQhJtJWr3fiCUac8KsV) - my personal music
+- [my code blog](https://c.rlth.me)
+- [my music](http://ceruleancrayons.com) ([on Spotify](https://open.spotify.com/artist/1lDsQhJtJWr3fiCUac8KsV)
+- [my publications & patents](https://scholar.google.com/citations?user=BWSNWV0AAAAJ)
 
 ## Contact me
 
-Look for `carlthome` at [GitHub](https://github.com/carlthome), [Gmail](mailto:carlthome@gmail.com), [Reddit](https://www.reddit.com/user/carlthome), [Twitter](https://twitter.com/carlthome), [LinkedIn](https://linkedin.com/in/carlthome), [Kaggle](https://www.kaggle.com/carlthome), [Spotify](https://open.spotify.com/user/carlthome), [Facebook](https://www.facebook.com/carlthome), [SoundCloud](https://soundcloud.com/carlthome), [Bandcamp](http://carlthome.bandcamp.com), [last.fm](https://www.last.fm/user/carlthome), [YouTube](https://youtube.com/@CarlThome), etc.
+Look for `carlthome` at [GitHub](https://github.com/carlthome), [Gmail](mailto:carlthome@gmail.com), [Reddit](https://www.reddit.com/user/carlthome), [Twitter](https://twitter.com/carlthome), [LinkedIn](https://linkedin.com/in/carlthome), [Kaggle](https://www.kaggle.com/carlthome), [Spotify](https://open.spotify.com/user/carlthome), [Facebook](https://www.facebook.com/carlthome), [SoundCloud](https://soundcloud.com/carlthome), [Bandcamp](http://carlthome.bandcamp.com), [last.fm](https://www.last.fm/user/carlthome), [YouTube](https://youtube.com/@CarlThome), etc. It's usually me. Sometimes it's another guy.
 
 ## Employment
 
@@ -32,7 +33,7 @@ Some interesting workplaces I've been developing at:
 - Epidemic Sound - 2019-2021
 - Peltarion 2018-2019
 - DoReMIR - 2016-2018
-- School stuff
+- [break for engineering school]
 - Civil Rights Defenders 2010-2011
 - DevCore - 2007-2008
 
