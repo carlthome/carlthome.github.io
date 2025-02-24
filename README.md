@@ -16,9 +16,9 @@ I'm currently thinking about audio-based finetuning methods, reproducible code f
 
 ## Some personal links
 
-- [my code blog](https://c.rlth.me)
-- [my music](http://ceruleancrayons.com) ([on Spotify](https://open.spotify.com/artist/1lDsQhJtJWr3fiCUac8KsV)
-- [my publications & patents](https://scholar.google.com/citations?user=BWSNWV0AAAAJ)
+- [my blog](https://c.rlth.me)
+- [my music](http://ceruleancrayons.com)
+- [my publications](https://scholar.google.com/citations?user=BWSNWV0AAAAJ)
 
 ## Contact me
 
